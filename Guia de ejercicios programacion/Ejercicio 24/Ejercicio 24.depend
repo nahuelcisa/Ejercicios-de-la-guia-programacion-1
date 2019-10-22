@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571712534 source:c:\users\giuliiii\desktop\ejercicios programacion\ejercicio 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
